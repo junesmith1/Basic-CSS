@@ -30,7 +30,7 @@ p {
 #paragraph2 {
     width: 850px;              
     margin: 15px 0 15px 20px; 
-    padding: 15px;
+    padding: 20px 45px;
     border: 2px solid #008000;
     background-color: #ffffff;
     line-height: 1.8;
@@ -39,7 +39,7 @@ p {
 .blue {
     background-color: #00098d;   
     color: #ffffff;             
-    padding: 15px;
+    padding: 15px 15px;
     margin: 12px 0;
     line-height: 1.7;
 }
